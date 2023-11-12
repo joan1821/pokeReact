@@ -1,7 +1,6 @@
 import '../styles/App.css';
 import React from 'react';
 import { Link, Routes, Route } from 'react-router-dom';
-import '../styles/App.css';
 import Main from './Main';
 import AboutMe from './AboutMe';
 
