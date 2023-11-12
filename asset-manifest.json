@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/pokeReact/static/css/main.192f3749.css",
+    "main.js": "/pokeReact/static/js/main.5db17f1e.js",
+    "index.html": "/pokeReact/index.html",
+    "main.192f3749.css.map": "/pokeReact/static/css/main.192f3749.css.map",
+    "main.5db17f1e.js.map": "/pokeReact/static/js/main.5db17f1e.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.192f3749.css",
+    "static/js/main.5db17f1e.js"
+  ]
+}
